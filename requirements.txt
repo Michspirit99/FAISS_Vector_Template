@@ -1,2 +1,2 @@
-flask==2.3.2
+flask==2.2.5
 faiss-cpu==1.7.4
