@@ -13,7 +13,6 @@ asynctest==0.13.0
 attrs==23.1.0
 auth0-python==4.3.0
 Authlib==1.2.1
-auto_gpt_plugin_template==0.0.3
 autoflake==2.1.1
 backoff==2.2.1
 beautifulsoup4==4.12.2
